@@ -27,3 +27,6 @@ To run this project, you will need the following Python packages:
 - pandas
 - NumPy
 - Matplotlib (optional for visualizations)
+
+## Output shortcut
+![CNN fitting result](https://github.com/user-attachments/assets/981e8c66-7b66-4cd4-8529-91f9416f7064)
